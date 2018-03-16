@@ -1,0 +1,3 @@
+rootProject.name = 'BtcReact'
+
+include ':app'
